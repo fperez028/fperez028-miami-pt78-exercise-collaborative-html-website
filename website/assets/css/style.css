@@ -39,3 +39,15 @@ body {
 #jumbotron h2 {
     font-size: 60px
 }
+
+#heisenberg{
+    width: 250px;
+    height: 250px;
+}
+
+#separator{
+     height:1px;
+     border-width:0;
+     color:gray;
+     background-color:gray;
+}
