@@ -51,3 +51,14 @@ body {
      color:gray;
      background-color:gray;
 }
+img{
+    height:200px;
+    border-radius: 95px;
+}
+#pft {
+    font-size: small;
+}
+
+#pft1 {
+    font-size: 14px;
+}
